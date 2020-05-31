@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT DLC (Mas_contenido+)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT Mas_contenido ((nombre, precio, Fecha, titulo, descripcion, publisher) | (titulo, descripcion))>

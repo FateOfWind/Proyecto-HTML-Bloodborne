@@ -1,0 +1,66 @@
+[
+   {
+      "nombre": "Bastón enroscado",
+      "tipo": "Armas con truco",
+      "requisitos": "F:7 H:9",
+      "bonificaciones": "Fr:E Hb:C Arc:D",
+      "categoria": "Arma derecha",
+      "durabilidad": "200"
+   },
+   {
+      "nombre": "Pistola de cazador",
+      "tipo": "Arma de fuego",
+      "requisitos": "Fr:7 Hb:9 Viv:5",
+      "bonificaciones": "Arc:D",
+      "categoria": "Arma izquierda",
+      "durabilidad": "100"
+   },
+   {
+      "nombre": "Espada sagrada de ludwig",
+      "tipo": "Armas con truco",
+      "requisitos": "Fr:16 Hb:12",
+      "bonificaciones": "Fr:D Hb:D Arc:D",
+      "categoria": "Arma derecha",
+      "durabilidad": "200"
+   },
+   {
+      "nombre": "Antorcha de cazador",
+      "tipo": "Armas de fuego",
+      "requisitos": "Fr:6",
+      "bonificaciones": "Arc:6",
+      "categoria": "Arma izquierda",
+      "durabilidad": "100"
+   },
+   {
+      "nombre": "Evelyn",
+      "tipo": "Arma de fuego",
+      "requisitos": "Fr:9 Hb:11 viv:18",
+      "bonificaciones": "Viv:B",
+      "categoria": "Arma izquierda",
+      "durabilidad": "100"
+   },
+   {
+      "nombre": "Hacha de cazador",
+      "tipo": "Arma con truco",
+      "requisitos": "Fr:9 Hb:8",
+      "bonificaciones": "Fr:D Hb:E Arc:D",
+      "categoria": "Arma derecha",
+      "durabilidad": "250"
+   },
+   {
+      "nombre": "Garra de bestia",
+      "tipo": "Arma con truco",
+      "requisitos": "Fr:14 Hb:12",
+      "bonificaciones": "Fr:D Hb:E Arc:D",
+      "categoria": "Arma derecha",
+      "durabilidad": "180"
+   },
+   {
+      "nombre": "Sierra giratoria",
+      "tipo": "Arma con truco",
+      "requisitos": "Fr:18 Hb:12",
+      "bonificaciones": "Fr:B Ds:E Arc:D",
+      "categoria": "Arma derecha",
+      "durabilidad": "230"
+   }
+]

@@ -1,0 +1,26 @@
+[
+   {
+      "nombre": "Bloodborne The Old Hunters",
+      "precio": "20$",
+      "Fecha": "24 de noviembre",
+      "titulo": "Descucbre el pasado de Yharnam",
+      "descripcion": "Experimenta la pesadilla de los cazadores que alguna vez guardaron los secretos más profundos y oscuros de Byrgenwerth, y descubre los misterios del siniestro pasado de Yharnam en la expansión de código de contenido descargable (DLC) de The Old Hunters para Bloodborne™. Viaja a un mundo donde los cazadores del pasado han quedado atrapados hasta la eternidad, descubre cantidades de trajes y armas nuevas para agregar a tu arsenal, y explora nuevos escenarios llenos de peligros, recompensas y bestias mortales para cazar.",
+      "publisher": "Sony entertaiment"
+   },
+   {
+      "titulo": "Mas cazadores",
+      "descripcion": "Únete a una gran variedad de cazadores nuevos, algunos provenientes del Lejano Oriente. ¿Qué horrores habrán visto, atrapados en esta pesadilla eterna?"
+   },
+   {
+      "titulo": "Nuevos enemigos",
+      "descripcion": "Al quedar atrapados en este mundo de pesadillas, algunos cazadores perdieron el juicio. Incapaces de distinguir bestias de amigos, vagan sin rumbo y matan todo lo que se atraviesa en su camino. Ten cuidado, porque siguen esgrimiendo sus mortales armas de caza."
+   },
+   {
+      "titulo": "Descubre mas Bosses : Ludwig La bestia terrorifica",
+      "descripcion": "Cuando más virtuoso es el hombre, más maligna es la bestia que esconde en su interior. Es lo que ha sucedido con quien alguna vez fuera un héroe de renombre.\n\nAhora, se arrastra sin rumbo por las profundidades inundadas de sangre como algo que apenas merece ser llamado bestia."
+   },
+   {
+      "titulo": "Nuevas armas :La espada-arco de Simon",
+      "descripcion": "A uno de los viejos cazadores no le gustaban las armas de fuego. Este arco especial transformable fue creado especialmente para él.\n\nPero, ya sabes lo que dicen. Enfrentarse a una bestia solo con un arco es..."
+   }
+]

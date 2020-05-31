@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Guia SYSTEM "C:\Users\torre\OneDrive\Escritorio\Proyecto HTML Bloodborne - Sergio Torres\dtd\Guia.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xslt\Guia.xslt"?>
+<Guia>
+	<Arma>
+		<nombre>Bastón enroscado</nombre>
+		<tipo>Armas con truco</tipo>
+		<requisitos>F:7 H:9</requisitos>
+		<bonificaciones>Fr:E Hb:C Arc:D</bonificaciones>
+		<categoria>Arma derecha</categoria>
+		<durabilidad>200</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Pistola de cazador</nombre>
+		<tipo>Arma de fuego</tipo>
+		<requisitos>Fr:7 Hb:9 Viv:5</requisitos>
+		<bonificaciones>Arc:D</bonificaciones>
+		<categoria>Arma izquierda</categoria>
+		<durabilidad>100</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Espada sagrada de ludwig</nombre>
+		<tipo>Armas con truco</tipo>
+		<requisitos>Fr:16 Hb:12</requisitos>
+		<bonificaciones>Fr:D Hb:D Arc:D</bonificaciones>
+		<categoria>Arma derecha</categoria>
+		<durabilidad>200</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Antorcha de cazador</nombre>
+		<tipo>Armas de fuego</tipo>
+		<requisitos>Fr:6</requisitos>
+		<bonificaciones>Arc:6</bonificaciones>
+		<categoria>Arma izquierda</categoria>
+		<durabilidad>100</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Evelyn</nombre>
+		<tipo>Arma de fuego</tipo>
+		<requisitos>Fr:9 Hb:11 viv:18 </requisitos>
+		<bonificaciones>Viv:B</bonificaciones>
+		<categoria>Arma izquierda</categoria>
+		<durabilidad>100</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Hacha de cazador</nombre>
+		<tipo>Arma con truco</tipo>
+		<requisitos>Fr:9 Hb:8</requisitos>
+		<bonificaciones>Fr:D Hb:E Arc:D</bonificaciones>
+		<categoria>Arma derecha</categoria>
+		<durabilidad>250</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Garra de bestia</nombre>
+		<tipo>Arma con truco</tipo>
+		<requisitos>Fr:14 Hb:12</requisitos>
+		<bonificaciones>Fr:D Hb:E Arc:D</bonificaciones>
+		<categoria>Arma derecha</categoria>
+		<durabilidad>180</durabilidad>
+	</Arma>
+	<Arma>
+		<nombre>Sierra giratoria</nombre>
+		<tipo>Arma con truco</tipo>
+		<requisitos>Fr:18 Hb:12</requisitos>
+		<bonificaciones>Fr:B Ds:E Arc:D</bonificaciones>
+		<categoria>Arma derecha</categoria>
+		<durabilidad>230</durabilidad>
+	</Arma>
+</Guia>

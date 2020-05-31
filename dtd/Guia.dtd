@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT Arma (nombre, tipo, requisitos, bonificaciones, categoria, durabilidad)>
+<!ELEMENT Guia (Arma+)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT requisitos (#PCDATA)>
+<!ELEMENT durabilidad (#PCDATA)>
+<!ELEMENT bonificaciones (#PCDATA)>
